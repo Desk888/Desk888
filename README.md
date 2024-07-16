@@ -10,4 +10,8 @@ Be it suggestions, bug reports, feature requests, or general comments, please ta
 ## My ultimate goal 🎯
 
 My goal is to develop tools that will help solve human problems and improve the workflow of individuals and businesses. 
-By focusing on practical and efficient solutions, I aim to create applications that address everyday challenges and enhance productivity in both personal and professional settings."
+By focusing on practical and efficient solutions, I aim to create applications that address everyday challenges and enhance productivity in both personal and professional settings.
+
+# Let's work together! 🙏🏼
+
+If we are on the same page, it will be more than a pleasure to hear from you, and eventually work together.

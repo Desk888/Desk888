@@ -15,4 +15,4 @@ By focusing on practical and efficient solutions, I aim to create applications t
 ## Let's work together! 🙏🏼
 
 If we are on the same page, it will be more than a pleasure to hear from you, and eventually work together.
-Email: work.lorenzofilippini@gmail.com
+Email: lorenzofilippini@proton.me (Secure email address powered by ProtonVPN)

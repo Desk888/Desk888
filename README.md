@@ -35,7 +35,7 @@ Be it suggestions, bug reports, feature requests, or general comments, please ta
       <td valign="top">
         <div align="center">
         <a href=" https://github.com/theMoor9?tab=repositories">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,linux, aws, gcp&perline=3&titles=true" />
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,linux,aws,gcp&perline=3&titles=true" />
         </a>
         </div>
       </td>

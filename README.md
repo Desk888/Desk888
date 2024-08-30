@@ -10,7 +10,7 @@ Be it suggestions, bug reports, feature requests, or general comments, please ta
 
 <h2> Let's work together 🙏🏼 </h2>
 
-<p style="font-size: 14px;">It will be more than a pleasure to hear from you, and eventually work together on a new or existing project.
+<p style="font-size: 14px;">It will be more than a pleasure to hear from you, and eventually work together on a new or existing project.<br>
 Email: work.lorenzofilippini@gmail.com</p>
 
 <br><br>

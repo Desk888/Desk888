@@ -8,6 +8,11 @@ Whether it's suggestions, bug reports, feature requests, or general comments. Pl
 As I independently create and enhance various projects, your feedback is extremely valuable to me. 
 Be it suggestions, bug reports, feature requests, or general comments, please take a moment to share your thoughts and experiences.</p>
 
+<h2> Let's work together 🙏🏼 </h2>
+
+<p style="font-size: 14px">It will be more than a pleasure to hear from you, and eventually work together on a new or existing project.
+Email: work.lorenzofilippini@gmail.com</p>
+
 <br><br>
 <div align="center">
   <p>
@@ -44,9 +49,3 @@ Be it suggestions, bug reports, feature requests, or general comments, please ta
     </tr>
   </table>
 </div>
-<br><br>
-
-## Let's work together! 🙏🏼
-
-It will be more than a pleasure to hear from you, and eventually work together.
-Email: work.lorenzofilippini@gmail.com

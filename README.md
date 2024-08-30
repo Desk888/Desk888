@@ -13,7 +13,7 @@ Be it suggestions, bug reports, feature requests, or general comments, please ta
   </p>
   <table style="margin: auto;">
     <tr>
-      <th>Main Technologies</th>
+      <th>Languages</th>
       <th>Tools</th>
       <th>Systems</th>
     </tr>
@@ -21,14 +21,14 @@ Be it suggestions, bug reports, feature requests, or general comments, please ta
       <td valign="top">
         <div align="center">
         <a href="https://github.com/theMoor9?tab=repositories">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=py,js,bash,go,html,css,postgres,redis,mysqlmd&perline=3&titles=true" />
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=py,js,bash,go,html,cssmd&perline=3&titles=true" />
         </a>
         </div>
       </td>
       <td valign="top">
         <div align="center">
         <a href=" https://github.com/theMoor9?tab=repositories">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,obsidian,git&perline=3&titles=true" />
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,obsidian,git,postgres,redis,mysql,mongodb&perline=3&titles=true" />
         </a>
         </div>
       </td>

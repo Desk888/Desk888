@@ -51,4 +51,4 @@ Email: work.lorenzofilippini@gmail.com</p>
   </table>
 </div>
 <br>
-<div style="padding-top:76.471%;position:relative;"><iframe src="https://gifer.com/embed/1BKn" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
+<a href="https://www.animatedimages.org/cat-pink-panther-1436.htm"><img src="https://www.animatedimages.org/data/media/1436/animated-pink-panther-image-0015.gif" border="0" alt="animated-pink-panther-image-0015" /></a>

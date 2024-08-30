@@ -40,19 +40,6 @@ Be it suggestions, bug reports, feature requests, or general comments, please ta
         </div>
       </td>
     </tr>
-    <tr>
-      <td colspan="4" style="text-align: center; padding-top: 20px;">
-        <small >
-          <p><strong>Disclaimer</strong>: 
-            <em>  
-              I use AI tools primarily to speed up writing processes and to manage complex design structures, 
-              helping me outline and track the workflow. However, AI cannot replace me, as it lacks the adaptability and creativity that I consider essential 
-              to achieve the level of quality I demand in the development of my scripts.
-            </em>
-          </p>
-        </small>
-      </td>
-    </tr>  
   </table>
 </div>
 <br><br>

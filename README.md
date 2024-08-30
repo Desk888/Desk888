@@ -1,15 +1,69 @@
 ## Ciao, welcome to my GitHub 👋
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-
-I'm Lorenzo, a Backend Software Engineer and Computing graduate working primarily (but not limited to) with Python, JavaScript and Go, and SQL Databases (also not limited to).
-
+I'm Lorenzo, a Backend Software Engineer working primarily (but not limited to) with Python, JavaScript and Go, and SQL Databases (also not limited to).
 As I'm working on building and developing various projects on my own, your feedback becomes incredibly important to me. 
 Whether it's suggestions, bug reports, feature requests, or general comments. Please take a moment to share your thoughts and experiences.
 As I independently create and enhance various projects, your feedback is extremely valuable to me. 
 Be it suggestions, bug reports, feature requests, or general comments, please take a moment to share your thoughts and experiences.
+
+<br><br>
+<div align="center">
+  <p>
+    <h2> Core Skills </h2>
+  </p>
+  <table style="margin: auto;">
+    <tr>
+      <th>Main Technologies</th>
+      <th>Other Notions</th>
+      <th>Tools</th>
+      <th>Systems</th>
+    </tr>
+    <tr>
+      <td valign="top">
+        <div align="center">
+        <a href="https://github.com/theMoor9?tab=repositories">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=py,js,bash,go,html,css,postgres,redis,mysqlmd&perline=3&titles=true" />
+        </a>
+        </div>
+      </td>
+      <td valign="top">
+        <div align="center">
+        <a href="https://github.com/theMoor9?tab=repositories">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=rust,java,php,mysql&perline=3&titles=true" />
+        </a>
+        </div>
+      </td>
+      <td valign="top">
+        <div align="center">
+        <a href=" https://github.com/theMoor9?tab=repositories">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,obsidian,sublime,git,githubcopilot,chatgpt&perline=3&titles=true" />
+        </a>
+        </div>
+      </td>
+      <td valign="top">
+        <div align="center">
+        <a href=" https://github.com/theMoor9?tab=repositories">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,linux&perline=3&titles=true" />
+        </a>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="4" style="text-align: center; padding-top: 20px;">
+        <small >
+          <p><strong>Disclaimer</strong>: 
+            <em>  
+              I use AI tools primarily to speed up writing processes and to manage complex design structures, 
+              helping me outline and track the workflow. However, AI cannot replace me, as it lacks the adaptability and creativity that I consider essential 
+              to achieve the level of quality I demand in the development of my scripts.
+            </em>
+          </p>
+        </small>
+      </td>
+    </tr>  
+  </table>
+</div>
+<br><br>
 
 ## Let's work together! 🙏🏼
 

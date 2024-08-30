@@ -12,7 +12,7 @@ As I independently build and enhance various projects, your feedback is invaluab
 <div align="center">
 <h2>Let's work together 🙏🏼 </h2>
 </div>
-<p style="font-size: 14px;">It will be more than a pleasure to hear from you, and eventually work together on a new or existing project.<br>
+<p style="font-size: 14px;">It will be more than a pleasure to hear from you, and eventually work together on a new or existing project. After all, teamwork makes the dream work right?<br>
 Email: work.lorenzofilippini@gmail.com</p>
 
 <br><br>

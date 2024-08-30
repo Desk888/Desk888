@@ -11,9 +11,9 @@ As I'm working on building and developing various projects on my own, your feedb
 Whether it's suggestions, bug reports, feature requests, or general comments. Please take a moment to share your thoughts and experiences.
 As I independently create and enhance various projects, your feedback is extremely valuable to me. 
 Be it suggestions, bug reports, feature requests, or general comments, please take a moment to share your thoughts and experiences.</p>
-
-<h2> Let's work together 🙏🏼 </h2>
-
+<div align="center">
+<h2>Let's work together 🙏🏼 </h2>
+</div>
 <p style="font-size: 14px;">It will be more than a pleasure to hear from you, and eventually work together on a new or existing project.<br>
 Email: work.lorenzofilippini@gmail.com</p>
 
@@ -54,4 +54,6 @@ Email: work.lorenzofilippini@gmail.com</p>
   </table>
 </div>
 <br>
+<div align="center">
 <a href="https://www.animatedimages.org/cat-pink-panther-1436.htm"><img src="https://www.animatedimages.org/data/media/1436/animated-pink-panther-image-0015.gif" border="0" alt="animated-pink-panther-image-0015" /></a>
+</div>

@@ -9,12 +9,11 @@ Be it suggestions, bug reports, feature requests, or general comments, please ta
 <br><br>
 <div align="center">
   <p>
-    <h2> Core Skills </h2>
+    <h2> Tech Stack: </h2>
   </p>
   <table style="margin: auto;">
     <tr>
       <th>Main Technologies</th>
-      <th>Other Notions</th>
       <th>Tools</th>
       <th>Systems</th>
     </tr>
@@ -28,22 +27,15 @@ Be it suggestions, bug reports, feature requests, or general comments, please ta
       </td>
       <td valign="top">
         <div align="center">
-        <a href="https://github.com/theMoor9?tab=repositories">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=rust,java,php,mysql&perline=3&titles=true" />
+        <a href=" https://github.com/theMoor9?tab=repositories">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,obsidian,git&perline=3&titles=true" />
         </a>
         </div>
       </td>
       <td valign="top">
         <div align="center">
         <a href=" https://github.com/theMoor9?tab=repositories">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,obsidian,sublime,git,githubcopilot,chatgpt&perline=3&titles=true" />
-        </a>
-        </div>
-      </td>
-      <td valign="top">
-        <div align="center">
-        <a href=" https://github.com/theMoor9?tab=repositories">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,linux&perline=3&titles=true" />
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,linux, aws, gcp&perline=3&titles=true" />
         </a>
         </div>
       </td>

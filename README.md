@@ -1,4 +1,4 @@
-<h1>Ciao, Welcome to My GitHub 👋</h1>
+<h1>Ciao, Welcome to My GitHub 👋</h1> <a href="https://www.animatedimages.org/cat-pink-panther-1436.htm"><img src="https://www.animatedimages.org/data/media/1436/animated-pink-panther-image-0005.gif" border="0" alt="animated-pink-panther-image-0005" /></a>
 
 <br>
 

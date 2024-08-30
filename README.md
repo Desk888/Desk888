@@ -1,4 +1,4 @@
-<h1>Ciao, welcome to my GitHub 👋</h1>
+<h1>Ciao, Welcome to my GitHub 👋</h1>
 
 <br>
 I'm Lorenzo, a Backend Software Engineer working primarily (but not limited to) with Python, JavaScript and Go, and SQL Databases (also not limited to).

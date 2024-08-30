@@ -6,11 +6,7 @@
 </div>
 <br>
 
-<p style="font-size: 14px;">I'm Lorenzo, a Backend Software Engineer working primarily (but not limited to) with Python, JavaScript and Go, and SQL Databases (also not limited to).
-As I'm working on building and developing various projects on my own, your feedback becomes incredibly important to me. 
-Whether it's suggestions, bug reports, feature requests, or general comments. Please take a moment to share your thoughts and experiences.
-As I independently create and enhance various projects, your feedback is extremely valuable to me. 
-Be it suggestions, bug reports, feature requests, or general comments, please take a moment to share your thoughts and experiences.</p>
+<p style="font-size: 14px;">Hi, I'm Lorenzo, a Backend Software Engineer with expertise in Python, JavaScript, Go, and SQL Databases. I'm actively developing various independent projects, and your feedback is invaluable to me. Whether you have suggestions, bug reports, feature requests, or general comments, I'd greatly appreciate your input. Please take a moment to share your thoughts and help me improve my work.</p>
 <div align="center">
 <h2>Let's work together 🙏🏼 </h2>
 </div>

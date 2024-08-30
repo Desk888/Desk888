@@ -1,5 +1,7 @@
 ## Ciao, welcome to my GitHub 👋
 
+<br><br>
+
 I'm Lorenzo, a Backend Software Engineer working primarily (but not limited to) with Python, JavaScript and Go, and SQL Databases (also not limited to).
 As I'm working on building and developing various projects on my own, your feedback becomes incredibly important to me. 
 Whether it's suggestions, bug reports, feature requests, or general comments. Please take a moment to share your thoughts and experiences.

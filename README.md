@@ -29,28 +29,30 @@ Email: work.lorenzofilippini@gmail.com</p>
     <tr>
       <td valign="top">
         <div align="center">
-        <a href="https://github.com/theMoor9?tab=repositories">
+        <a href="https://github.com/Desk888?tab=repositories">
           <img src="https://go-skill-icons.vercel.app/api/icons?i=py,js,go,html,css,bash,django,nodejs,fastapi,flaskmd&perline=3&titles=true" />
         </a>
         </div>
       </td>
       <td valign="top">
         <div align="center">
-        <a href=" https://github.com/theMoor9?tab=repositories">
+        <a href="https://github.com/Desk888?tab=repositories">
           <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,obsidian,git,postgres,redis,mysql,mongodb&perline=3&titles=true" />
         </a>
         </div>
       </td>
       <td valign="top">
         <div align="center">
-        <a href=" https://github.com/theMoor9?tab=repositories">
+        <a href="https://github.com/Desk888?tab=repositories">
           <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,linux,aws,gcp&perline=3&titles=true" />
         </a>
         </div>
       </td>
     </tr>
+    <p>Table inspired by <a href="https://github.com/theMoor9">theMoor9</a></p>
   </table>
 </div>
+
 <br>
 <div align="center">
 <a href="https://www.animatedimages.org/cat-pink-panther-1436.htm"><img src="https://www.animatedimages.org/data/media/1436/animated-pink-panther-image-0015.gif" border="0" alt="animated-pink-panther-image-0015" /></a>

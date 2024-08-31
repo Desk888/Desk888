@@ -49,8 +49,8 @@ Email: work.lorenzofilippini@gmail.com</p>
         </div>
       </td>
     </tr>
-    <p>Table inspired by <a href="https://github.com/theMoor9">theMoor9</a></p>
   </table>
+  <p font-size: 5px;>Table inspired by <a href="https://github.com/theMoor9">theMoor9</a></p>
 </div>
 
 <br>

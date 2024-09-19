@@ -30,7 +30,7 @@ Email: work.lorenzofilippini@gmail.com</p>
       <td valign="top">
         <div align="center">
         <a href="https://github.com/Desk888?tab=repositories">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=py,js,go,html,css,bash,django,nodejs,fastapi,flaskmd&perline=3&titles=true" />
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=py,js,go,html,css,bash,django,nodejs,fastapi,flask,react,sveltemd&perline=3&titles=true" />
         </a>
         </div>
       </td>

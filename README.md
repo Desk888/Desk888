@@ -30,27 +30,26 @@ Email: work.lorenzofilippini@gmail.com</p>
       <td valign="top">
         <div align="center">
         <a href="https://github.com/Desk888?tab=repositories">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=py,js,go,html,css,bash,django,nodejs,fastapi,flask,react,sveltemd&perline=3&titles=true" />
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=py,js,go,html,css,bash,django,nodejs,fastapi,flask,react,svelte,typescript&perline=3&titles=true" />
         </a>
         </div>
       </td>
       <td valign="top">
         <div align="center">
         <a href="https://github.com/Desk888?tab=repositories">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,obsidian,git,postgres,redis,mysql,mongodb&perline=3&titles=true" />
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,obsidian,git,postgres,redis,mysql,mongodb,githubcopilot,chatgpt&perline=3&titles=true" />
         </a>
         </div>
       </td>
       <td valign="top">
         <div align="center">
         <a href="https://github.com/Desk888?tab=repositories">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,linux,aws,gcp&perline=3&titles=true" />
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,linux,apple,aws,gcp,ubuntu&perline=3&titles=true" />
         </a>
         </div>
       </td>
     </tr>
   </table>
-  <p font-size: 5px;>Table inspired by <a href="https://github.com/theMoor9">theMoor9</a></p>
 </div>
 
 <br>

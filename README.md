@@ -26,7 +26,7 @@
       <td valign="top">
         <div align="center">
         <a href="https://github.com/Desk888?tab=repositories">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,obsidian,git,postgres,redis,mysql,mongodb,githubcopilot,chatgpt&perline=3&titles=true" />
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,obsidian,git,postgres,redis,mysql,mongodb,githubcopilot,chatgpt,kafka,spark,snowflake&perline=3&titles=true" />
         </a>
         </div>
       </td>

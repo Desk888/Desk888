@@ -5,17 +5,6 @@
 <a href="https://www.animatedimages.org/cat-pink-panther-1436.htm"><img src="https://www.animatedimages.org/data/media/1436/animated-pink-panther-image-0005.gif" border="0" alt="animated-pink-panther-image-0005" /></a>
 </div>
 <br>
-
-<p style="font-size: 14px;">Hi, I'm Lorenzo, a Software Engineer with a passion for creating impactful software solutions. I specialize in Python, Typescript, Go, and SQL Databases, but I'm always exploring new technologies. My mission is to develop code that serves meaningful purposes, contributing to projects that make a difference.
-
-As I independently build and enhance various projects, your feedback is invaluable. Whether you have suggestions, bug reports, feature requests, or general comments, your input helps me grow and improve. Please take a moment to share your thoughts and experiences—together, we can create something truly beneficial.</p>
-<div align="center">
-<h2>Let's work together 🙏🏼 </h2>
-</div>
-<p style="font-size: 14px;">It will be more than a pleasure to hear from you, and eventually work together on a new or existing project. After all, teamwork makes the dream work right? Get in touch 🖖🏼<br>
-Email: work.lorenzofilippini@gmail.com</p>
-
-<br><br>
 <div align="center">
   <p>
     <h2> Tech Stack: </h2>

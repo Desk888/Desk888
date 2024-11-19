@@ -42,9 +42,3 @@
 </div>
 
 <br>
-<div align="center">
-<a href="https://www.animatedimages.org/cat-pink-panther-1436.htm"><img src="https://www.animatedimages.org/data/media/1436/animated-pink-panther-image-0015.gif" border="0" alt="animated-pink-panther-image-0015" /></a>
-</div>
-<div align="center">
-  <p>**Inspecting bugs..**</p>
-</div>

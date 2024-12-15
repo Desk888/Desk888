@@ -19,7 +19,7 @@
       <td valign="top">
         <div align="center">
         <a href="https://github.com/Desk888?tab=repositories">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=py,js,go,html,css,bash,django,nodejs,fastapi,flask,react,typescript,nextjs&perline=3&titles=true" />
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=py,typescript,go,c,html,css,django,nodejs,fastapi,flask,bash,react,nextjs,svelte&perline=3&titles=true" />
         </a>
         </div>
       </td>
@@ -33,7 +33,7 @@
       <td valign="top">
         <div align="center">
         <a href="https://github.com/Desk888?tab=repositories">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,linux,apple,aws,gcp,ubuntu&perline=3&titles=true" />
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,linux,apple,aws,gcp,ubuntu,docker,vercel&perline=3&titles=true" />
         </a>
         </div>
       </td>

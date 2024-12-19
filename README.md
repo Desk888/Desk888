@@ -2,7 +2,8 @@
 <h2>Ciao I'm Lorenzo 👋</h2
 </div>
 <p>
- I'm a software developer and part-time CS student coding primarily in Python, Typescript and Go, to build full-stack applications.<br>
+ I'm a software developer coding primarily in Python, Typescript and Go, to build full-stack applications.<br>
+ Currently I'm doing a part-time CS degree whilst self-studying more Go and the Next.js framework.<br>
 
 <div align="center">
   <p>

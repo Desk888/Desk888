@@ -2,9 +2,10 @@
 <h2>Ciao I'm Lorenzo 👋</h2
 </div>
 <p>
- I'm a software developer coding primarily in Python, Typescript and Go, to build full-stack applications.<br>
+ I'm a Software Developer coding primarily in Python, Typescript and Go to build full-stack applications, and data-intense projects.<br>
+ My background is working as a Marketing & Implementations Data Analyst, leading small to large projects involving ETL processes, database management and data visualization. Proficient in SQL, Airflow / Prefect, AWS, DataGrip and more. <br>
  Currently I'm doing a part-time CS degree whilst self-studying more Go and the Next.js framework.<br>
-
+ I am actively looking to learn and grow as well as collaborating with likeminded individuals.
 <div align="center">
   <p>
     <h2> Tech Stack: </h2>

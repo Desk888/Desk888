@@ -1,6 +1,9 @@
 <div align="center">  
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=24,22,25,30&text=🖐️%20Ciao&reversal=false&fontSize=29&textBg=false&animation=fadeIn&section=header&fontAlignY=30" alt="Header" style="max-width: auto; height: auto;"> 
+<h2>Ciao I'm Lorenzo 👋</h2
 </div>
+<p>
+ I'm a software developer and part-time CS student coding primarily in Python, Typescript and Go, to build full-stack applications.<br>
+
 <div align="center">
   <p>
     <h2> Tech Stack: </h2>
@@ -36,9 +39,3 @@
     </tr>
   </table>
 </div>
-<br>
-<div align="center">  
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=24,22,25,30&reversal=false&fontSize=30&textBg=false&animation=fadeIn&section=footer&fontAlignY=30" alt="Footer" style="max-width: auto; height: auto;"> 
-</div>
-
-<br>

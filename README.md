@@ -2,10 +2,10 @@
   <h1>👋 Ciao I'm Lorenzo </h1>
 </div>
 
-I'm a Full Stack Developer with extensive experience in Python, Typescript, Go, and AWS to build full-stack applications and data-intense projects.<br>
-My background is working as a Marketing Data Analyst, leading small to large projects involving automation, ETL processes, database management, and data visualization. Proficient in SQL, Airflow / Prefect, AWS, DataGrip, and more. <br>
-Currently, I'm doing a part-time CS degree whilst self-studying more Go and the Next.js framework to enrich my experience with full-stack development.  
-I am actively looking to learn and grow as well as collaborate with like-minded individuals.
+As a full-stack developer with an extensive background in marketing data analytics, 
+I'm adapet in building and maintaning data-intensive, and cloud-hosted software applications using Python, Go and Typescript.
+My skillset puts emphasis on cloud deployment, leveraging technologies such as Docker, Terraform and AWS for secure and continuous development.
+I strive to maintain a smooth workflow with tools such as Git and Github with an CI/CD to ensure continuous development, and  write clean and effective code following thorough testing processes and libraries such as Pytest and Go standard test library.
 <br>
 <br>
 <div align="left">

@@ -2,7 +2,7 @@
   <h1>👋 Ciao I'm Lorenzo </h1>
 </div>
 
-As a <span><b>Full-stack Developer</b></span> with an extensive background in marketing data analytics and audio engineering, 
+As a <span><b>Full-stack Developer</b></span> with an extensive background in marketing data analytics, 
 I'm skilled in building and maintaning data-intensive, and cloud-hosted software applications using Python, Go and Typescript.
 My skillset puts emphasis on cloud deployment, leveraging technologies such as Docker, Terraform and AWS for secure and continuous development.
 I strive to maintain a smooth workflow with tools like Git and Github.
@@ -21,7 +21,7 @@ I strive to maintain a smooth workflow with tools like Git and Github.
       <td valign="top">
         <div align="center">
           <a href="https://github.com/Desk888?tab=repositories">
-            <img src="https://go-skill-icons.vercel.app/api/icons?i=py,typescript,go,c,html,css,dart,bash&perline=3&titles=true" />
+            <img src="https://go-skill-icons.vercel.app/api/icons?i=py,javascript,typescript,go,c,html,css,dart,bash&perline=3&titles=true" />
           </a>
         </div>
       </td>

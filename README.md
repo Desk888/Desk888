@@ -2,7 +2,7 @@
   <h1>👋 Ciao I'm Lorenzo </h1>
 </div>
 
-As a full-stack developer with an extensive background in marketing data analytics and audio engineering, 
+As a <span><b>Full-stack Developer</b></span> with an extensive background in marketing data analytics and audio engineering, 
 I'm skilled in building and maintaning data-intensive, and cloud-hosted software applications using Python, Go and Typescript.
 My skillset puts emphasis on cloud deployment, leveraging technologies such as Docker, Terraform and AWS for secure and continuous development.
 I strive to maintain a smooth workflow with tools like Git and Github.

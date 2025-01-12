@@ -4,7 +4,7 @@
 
 As a <span><b>Full-stack Developer</b></span> with an extensive background in marketing data analytics, 
 I'm skilled in building and maintaning data-intensive, and cloud-hosted software applications using Python, Go and Typescript.
-My skillset puts emphasis on cloud deployment, leveraging technologies such as Docker, Terraform and AWS for secure and continuous development.
+My skillset puts emphasis on cloud deployment, using technologies such as Docker, Terraform and AWS for a secure and continuous development.
 I strive to maintain a smooth workflow with tools like Git and Github.
 <br>
 <br>

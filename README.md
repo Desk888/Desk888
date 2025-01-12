@@ -28,7 +28,7 @@ I strive to maintain a smooth team workflow with tools like Git and Github and g
       <td valign="top">
         <div align="center">
           <a href="https://github.com/Desk888?tab=repositories">
-            <img src="https://go-skill-icons.vercel.app/api/icons?i=react,next,nodejs,fastapi,django,flask&perline=3&titles=true" />
+            <img src="https://go-skill-icons.vercel.app/api/icons?i=react,next,nodejs,svelte,fastapi,django,flask&perline=3&titles=true" />
           </a>
         </div>
       </td>

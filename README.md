@@ -9,6 +9,11 @@ I strive to maintain a smooth team workflow with tools like Git and Github and g
 <br>
 <br>
 <div align="left">
+    <img align="center" height=150 src="https://github-readme-stats.vercel.app/api?username=Desk888&hide=contribs,prs&show_icons=true&rank_icon=github&theme=ocean_dark" />
+    <img align="center" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Desk888&langs_count=8&layout=compact&theme=ocean_dark" />
+</div>
+<br>
+<div align="left">
   <h1> 💻 Tech Stack:</h1>
   <table style="margin: auto;">
     <tr>

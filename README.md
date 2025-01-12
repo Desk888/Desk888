@@ -3,9 +3,9 @@
 </div>
 
 As a <span><b>Full-stack Developer</b></span> with an extensive background in marketing data analytics, 
-I'm skilled in building and maintaning data-intensive, and cloud-hosted software applications using Python, Go and Typescript.
+I'm skilled in building and maintaning data-intensive, and cloud-hosted software applications using Python, Go and Typescript and various front-end technologies such as React, Next.js and Svelte for the UI development.
 My skillset puts emphasis on cloud deployment, using technologies such as Docker, Terraform and AWS for a secure and continuous development.
-I strive to maintain a smooth workflow with tools like Git and Github.
+I strive to maintain a smooth team workflow with tools like Git and Github and go through a careful testing plan using Pytest and Go standard testing library before deployment.
 <br>
 <br>
 <div align="left">

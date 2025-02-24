@@ -26,7 +26,7 @@ I strive to maintain a smooth team workflow with tools like Git and Github and g
       <td valign="top">
         <div align="center">
           <a href="https://github.com/Desk888?tab=repositories">
-            <img src="https://go-skill-icons.vercel.app/api/icons?i=py,javascript,typescript,go,c,html,css,dart,bash&perline=3&titles=true" />
+            <img src="https://go-skill-icons.vercel.app/api/icons?i=py,javascript,typescript,go,c,html,css,dart,bash,solidity&perline=3&titles=true" />
           </a>
         </div>
       </td>
@@ -40,7 +40,7 @@ I strive to maintain a smooth team workflow with tools like Git and Github and g
       <td valign="top">
         <div align="center">
           <a href="https://github.com/Desk888?tab=repositories">
-            <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,obsidian,git,postgres,redis,mysql,supabase,mongodb,chatgpt&perline=3&titles=true" />
+            <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,obsidian,git,postgres,redis,mysql,supabase,mongodb,chatgpt,hardhat&perline=3&titles=true" />
           </a>
         </div>
       </td>

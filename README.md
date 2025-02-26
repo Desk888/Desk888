@@ -22,28 +22,28 @@ Skilled and experienced <span><b>Full-stack Developer</b></span> with a passion 
       <td valign="top">
         <div align="center">
           <a href="https://github.com/Desk888?tab=repositories">
-            <img src="https://go-skill-icons.vercel.app/api/icons?i=py,javascript,typescript,go,c,html,css,dart,bash,solidity&perline=3&titles=true" />
+            <img src="https://go-skill-icons.vercel.app/api/icons?i=py,javascript,typescript,go,c,html,css,bash,solidity&perline=3&titles=true" />
           </a>
         </div>
       </td>
       <td valign="top">
         <div align="center">
           <a href="https://github.com/Desk888?tab=repositories">
-            <img src="https://go-skill-icons.vercel.app/api/icons?i=react,next,nodejs,svelte,fastapi,django,flask&perline=3&titles=true" />
+            <img src="https://go-skill-icons.vercel.app/api/icons?i=react,next,nodejs,svelte,fastapi,django,flask,gin&perline=3&titles=true" />
           </a>
         </div>
       </td>
       <td valign="top">
         <div align="center">
           <a href="https://github.com/Desk888?tab=repositories">
-            <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,obsidian,git,postgres,redis,mysql,supabase,mongodb,chatgpt,hardhat&perline=3&titles=true" />
+            <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,obsidian,git,postgres,redis,mysql,supabase,mongodb,chatgpt,hardhat,remix&perline=3&titles=true" />
           </a>
         </div>
       </td>
       <td valign="top">
         <div align="center">
           <a href="https://github.com/Desk888?tab=repositories">
-            <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,linux,apple,aws,gcp,ubuntu,docker,terraform,vercel&perline=3&titles=true" />
+            <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,linux,apple,aws,gcp,ubuntu,docker,kubernetes,terraform,vercel&perline=3&titles=true" />
           </a>
         </div>
       </td>
@@ -54,8 +54,9 @@ Skilled and experienced <span><b>Full-stack Developer</b></span> with a passion 
 <div align="left">
   <h1> 🚀 What I'm Working On: </h1>
   <ul>
-   <li>Building a free platform to give away unwanted items in your local area called <span><b>Grabit</b></span> using Next.js, Tailwind CSS and Go.</li>
-   <li>Writing a beginners book on Coding with Go.</li>
-   <li>Expanding my DevOps knowledge and skills.</li>
+    <li>Learning Blockchain Development with Solidity</li>
+    <li>Building a free platform to give away unwanted items in your local area called <span><b>Grabit</b></span> using Next.js, Tailwind CSS and Go.</li>
+    <li>Writing a beginners book on Coding with Go.</li>
+    <li>Expanding my DevOps knowledge and skills.</li>
   </ul>
 </div>

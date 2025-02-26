@@ -10,7 +10,7 @@ Skilled and experienced <span><b>Full-stack Developer</b></span> with a passion 
 </div>
 <br>
 <div align="left">
-  <h1> 💻 Tech Stack:</h1>
+  <h1> 💻 Tech Stack</h1>
   <table style="margin: auto;">
     <tr>
       <th>Languages</th>
@@ -52,7 +52,7 @@ Skilled and experienced <span><b>Full-stack Developer</b></span> with a passion 
 </div>
 <br>
 <div align="left">
-  <h1> 🚀 What I'm Working On: </h1>
+  <h1> 🚀 What I'm Working On</h1>
   <ul>
     <li>Learning Blockchain Development with Solidity</li>
     <li>Building a free platform to give away unwanted items in your local area called <span><b>Grabit</b></span> using Next.js, Tailwind CSS and Go.</li>

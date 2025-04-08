@@ -22,7 +22,7 @@ Skilled and experienced <span><b>Full-stack Developer</b></span> with a passion 
       <td valign="top">
         <div align="center">
           <a href="https://github.com/Desk888?tab=repositories">
-            <img src="https://go-skill-icons.vercel.app/api/icons?i=py,javascript,typescript,go,c,html,css,bash,solidity&perline=3&titles=true" />
+            <img src="https://go-skill-icons.vercel.app/api/icons?i=py,typescript,go,c,html,css,bash,solidity&perline=3&titles=true" />
           </a>
         </div>
       </td>

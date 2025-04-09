@@ -55,7 +55,6 @@ Skilled and experienced <span><b>Full-stack Developer</b></span> with a passion 
   <h1> 🚀 What I'm Working On</h1>
   <ul>
     <li>Learning Blockchain Development with Solidity</li>
-    <li>Building a free platform to give away unwanted items in your local area called <span><b>Grabit</b></span> using Next.js, Tailwind CSS and Go.</li>
     <li>Expanding my DevOps knowledge and skills.</li>
   </ul>
 </div>

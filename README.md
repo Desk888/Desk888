@@ -1,7 +1,7 @@
 <div align="left">  
   <h1>👋 Ciao I'm Lorenzo </h1>
 </div>
-Skilled and experienced <span><b>Full-stack Developer</b></span> with a passion for all things tech, from web development to data analytics, from cloud engineering to blockchain and much more. I specialise in designing and developing websites, web2 and web3 full-stack applications using modern technologies such as Python, Golang, Next.js and Solidity, with a strong focus on cloud-first development on platforms such as AWS and Google Cloud. I’m proficient working with databases such as PostgreSQL, MongoDB and Redis, as well as tools like Docker, Kubernetes and Terraform for continuous integration and deployment. I strive to maintain a smooth team workflow with tools like Git and Github and go through a careful testing plan before deployment.
+Skilled and experienced <span><b>Full-stack Developer</b></span> with a passion for all things tech, from web development to data analytics, from AI engineering to Blockchain development and more. I specialise in designing and developing websites, web2.0, web3.0 and AI-powered full-stack applications using modern technologies such as Python, Golang, Next.js and Solidity with additional frameworks.
 <br>
 <br>
 <div align="left">
@@ -29,21 +29,21 @@ Skilled and experienced <span><b>Full-stack Developer</b></span> with a passion 
       <td valign="top">
         <div align="center">
           <a href="https://github.com/Desk888?tab=repositories">
-            <img src="https://go-skill-icons.vercel.app/api/icons?i=react,next,nodejs,svelte,fastapi,django,flask,gin&perline=3&titles=true" />
+            <img src="https://go-skill-icons.vercel.app/api/icons?i=react,next,nodejs,svelte,fastapi,django,flask,gin,langchain&perline=3&titles=true" />
           </a>
         </div>
       </td>
       <td valign="top">
         <div align="center">
           <a href="https://github.com/Desk888?tab=repositories">
-            <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,obsidian,git,postgres,redis,mysql,supabase,mongodb,chatgpt,hardhat,remix&perline=3&titles=true" />
+            <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,obsidian,git,postgres,redis,mysql,supabase,mongodb,chatgpt,hardhat,remix,pinecone&perline=3&titles=true" />
           </a>
         </div>
       </td>
       <td valign="top">
         <div align="center">
           <a href="https://github.com/Desk888?tab=repositories">
-            <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,linux,apple,aws,gcp,ubuntu,docker,kubernetes,terraform,vercel&perline=3&titles=true" />
+            <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,linux,apple,aws,gcp,ubuntu,docker,kubernetes,terraform,vercel,netlify&perline=3&titles=true" />
           </a>
         </div>
       </td>

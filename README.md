@@ -54,7 +54,7 @@ Skilled and experienced <span><b>Full-stack Developer</b></span> with a passion 
 <div align="left">
   <h1> 🚀 What I'm Working On</h1>
   <ul>
+    <li>Deeply studying AI Engineering</li>
     <li>Learning Blockchain Development with Solidity</li>
-    <li>Expanding my DevOps knowledge and skills.</li>
   </ul>
 </div>
